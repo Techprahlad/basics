@@ -1,4 +1,4 @@
-public class Nachq {
+public class fibo {
 
 	public static void main(String[] args) {
 		int t1=0, t2=1,c=20,nxt;
